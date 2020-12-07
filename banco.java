@@ -1,6 +1,5 @@
-package CosasMias;
 
-import Basico.Leer;
+import Leer;
 /**
  * usuario
  */
